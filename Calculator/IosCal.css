@@ -71,9 +71,9 @@ body {
     color: white;
     font-size: 30px;
     border: none;
-    border-radius: 50%; /* Make the buttons round */
+    border-radius: 50%; 
     height: 60px;
-    width: 60px; /* Set width equal to height for circular shape */
+    width: 60px; 
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,8 +83,8 @@ body {
 
 .button.wide {
     grid-column: span 2;
-    border-radius: 30px; /* Make '0' button longer but still rounded */
-    width: 130px; /* Width adjusted for the wide button */
+    border-radius: 30px; 
+    width: 130px; 
 }
 
 .button.orange {
