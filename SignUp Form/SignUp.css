@@ -1,10 +1,10 @@
 body {
-  background: url(../Assets/Back_Img.jpg) center center fixed;
+  background: url(Back_Img.jpg) center center fixed;
 }
 
 .card {
   border-radius: 10px;
-  background: url(../Assets/Back_Img.jpg) center center fixed;
+  background: url(Back_Img.jpg) center center fixed;
 }
 
 #message {
